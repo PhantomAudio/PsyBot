@@ -18,4 +18,13 @@ The default set of modules includes and it's not limited to:
 * Imgur/gif search
 * And much much more
 <br />
+## Usage
+
+Commands for this bot follow this structure: `!dbg <command> [argument]`.
+
+| Command | Description
+|---------|-------------|
+| `!dbg add organization/repository` | Subscribes this channel to the given repository. |
+| `!dbg remove organization/repository` | Removes this channel's subscription to the given repository. |
+| `!dbg help` | Displays usage instructions. |
 https://travis-ci.org/dashboard

@@ -1,4 +1,4 @@
-![intro](http://i.imgur.com/RgGlNpQ.jpg)
+<!--![intro](http://i.imgur.com/RgGlNpQ.jpg)-->
 # Phantom_Bot - A fully customizable Discord bot
 #### *Music, admin, trivia, fun commands and much more!* 
 [![Travis CI](https://travis-ci.org/PhantomAudio/Phantom_Bot.svg?branch=master)](https://travis-ci.org/PhantomAudio/Phantom_Bot)

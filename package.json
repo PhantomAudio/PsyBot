@@ -1,5 +1,5 @@
 {
-  "name": "Phantom_Bot",
+  "name": "PsyBot",
   "version": "0.4.7",
   "description": "A Discord bot which lets you subscribe to GitHub events and reports about your subscriptions.",
   "main": "build/bundle.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Falconerd/discord-bot-github.git"
+    "url": "git+https://github.com/PhantomAudio/PsyBot.git"
   },
   "keywords": [
     "Discord",
@@ -23,9 +23,9 @@
   "author": "PhantomAudio <me@PhantomAudio.com> (http://PhantomAudio.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/PhantomAudio/Phantom_Bot/issues"
+    "url": "https://github.com/PhantomAudio/PsyBot/issues"
   },
-  "homepage": "https://github.com/PhantomAudio/Phantom_Bot#readme",
+  "homepage": "https://github.com/PhantomAudio/PsyBot#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "discord.js": "^9.2.0",

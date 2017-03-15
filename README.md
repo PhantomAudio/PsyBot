@@ -17,4 +17,5 @@ The default set of modules includes and it's not limited to:
 * Custom commands
 * Imgur/gif search
 * And much much more
+<br />
 https://travis-ci.org/dashboard
